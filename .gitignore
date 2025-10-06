@@ -1,0 +1,16 @@
+# Node / Vite
+node_modules/
+dist/
+build/
+.vite/
+.eslintcache
+
+# Mac / Editor
+.DS_Store
+*.log
+*.local
+
+# Env
+.env
+.env.*
+!.env.example
